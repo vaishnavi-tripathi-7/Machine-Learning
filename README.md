@@ -15,16 +15,18 @@ This repository covers the following topics:
 - 🧠 Unsupervised Learning (Clustering, PCA, etc.)
 - 🏋️‍♂️ Model Evaluation Techniques
 - 🛠️ Implementations from scratch (in NumPy/Python)
-- 📁 Projects and Notebooks
 
 ---
 
 ## 🛠️ Tech Stack
 
 - Python
-- NumPy, pandas, matplotlib, seaborn
-- scikit-learn
 - Jupyter Notebooks
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- Scikit-learn
 
 ---
 

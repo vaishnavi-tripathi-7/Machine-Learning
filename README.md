@@ -1,7 +1,6 @@
 # Machine-Learning
-# 🧠 Machine Learning from Basics
 
-Welcome to **Machine Learning from Basics**! This repository is a comprehensive collection of resources, code, and explanations designed to help you learn Machine Learning from the ground up.
+This repository is a comprehensive collection of resources, code related to  Machine Learning .
 
 ---
 

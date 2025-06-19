@@ -4,28 +4,11 @@ This repository is a comprehensive collection of resources, code related to  Mac
 
 ---
 
-## 📌 What You'll Find Here
-
-This repository covers the following topics:
-
-- 🧮 Basic Math for ML (Linear Algebra, Calculus, Probability)
-- 📊 Data Preprocessing & Visualization
-- 🤖 Supervised Learning (Linear Regression, Logistic Regression, etc.)
-- 🧠 Unsupervised Learning (Clustering, PCA, etc.)
-- 🏋️‍♂️ Model Evaluation Techniques
-- 🛠️ Implementations from scratch (in NumPy/Python)
-
----
-
-## 🛠️ Tech Stack
-
-- Python
-- Jupyter Notebooks
-- NumPy
-- Pandas
-- Matplotlib
-- Seaborn
-- Scikit-learn
-
----
-
+1 . NUMPY
+2 . PANDAS
+3 . MATPLOT LIB
+4 . SEABORN
+5 . STATISTICS
+6 . FEATURE ENGG
+  1 . Standardization
+  2 . Normalization
